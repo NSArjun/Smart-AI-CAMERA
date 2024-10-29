@@ -1,0 +1,3 @@
+Vehicle number GZ40AA65 Detected at 2024-10-16 15:30:20.044513
+Person Detected but face not detected at 2024_10_16 20_17_42.785674
+Person Detected but face not detected at 2024_10_16 20_19_25.471998
