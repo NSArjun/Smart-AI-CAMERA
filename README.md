@@ -149,9 +149,4 @@ User-Friendly Dashboard: Develop an intuitive dashboard that displays alerts, li
 
 In conclusion, our AI-integrated surveillance camera system marks a significant leap in security technology, combining advanced features such as facial detection, vehicle logging, and anomaly detection to enhance safety and monitoring. By continually improving our system through machine learning and user feedback, we aim to provide an effective solution that adapts to the evolving needs of users. We envision a future where our technology not only protects individuals and communities but also fosters a greater sense of security and resilience. Together, we can create safer environments, empowering users to safeguard their spaces with confidence.
 
-### Collaborators:
 
-- ASHWINA NARENDRAKUMAR [@ASHWINAKN]
-- ARJUN N S [@NSARJUN]
-- MOHAMMED SAAJID S [@MOHAMMED-SAAJID]
-- SRI HARISH B [@SRIHARISHB]
